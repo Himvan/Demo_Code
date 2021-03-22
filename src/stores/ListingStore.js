@@ -1,6 +1,5 @@
 import {observable} from 'mobx';
 import NetworkOps from 'Demo/src/network/NetworkOps';
-import {ListingModel} from './models/ListingModel';
 import {_} from 'lodash';
 
 export default class ListingStore {
